@@ -1,0 +1,1 @@
+This is a collection of handwritten Chinese characters compiled to help those who are learning the language. It currently contains examples extracted from the [HCL2000 database](http://www.iam.unibe.ch/~zimmerma/iamdb/iamdb.html) (PDF). The `output` directory contains a PNG image of handwritten examples for 3755 individual characters.
